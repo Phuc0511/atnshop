@@ -17,7 +17,7 @@
 
     <nav class="navbar navbar-expand-sm navbar-dark bg-black">
         <div class="container-fluid">
-            <a href="home.php">
+            <a href="index.php">
                 <img src="" width="50px" title="">
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navsup">
@@ -26,7 +26,7 @@
             <div class="collapse navbar-collapse" id="navsup">
                 <!--left-->
                 <div class="navbar-nav">
-                    <a href="home.php" class="nav-link">Home</a>
+                    <a href="index.php" class="nav-link">Home</a>
                     <a href="allproduct.php" class="nav-link">All Product</a>
                     <a href="productadd.php" class="nav-link">Add Product</a>
                     <a href="search.php" class="nav-link">Search</a>
