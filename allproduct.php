@@ -9,7 +9,7 @@ $re=$dbLink->query($sql);
 if($re->num_rows>0){   
 ?>
     <section class="py-5 text-center container"
-        style="background-image: url('https://kikodaily.com/wp-content/uploads/2017/07/gundam-1010971_1920.jpg');height: 600px" >
+        style="background-image: url('https://kikodaily.com/wp-content/uploads/2017/07/gundam-1010971_1920.jpg');height: 400px" >
         <div class="row py-ly-5">
             <div class="col-lg-6 col-md-8 mx-auto">
                 <h1 class="fw-light colorblack">ATN Store</h1>
